@@ -6,6 +6,7 @@ A counter increment app made with socket.io, jetpack compose & Kotlin. Synchroni
 
 ## Screenshots
 
-![image](https://github.com/shuklansh/SocketTestApp/assets/89148178/7e368a15-6aa8-4f7c-9bcb-f05a4fda752d)
+![Screenshot 2023-07-20 160733](https://github.com/shuklansh/SocketTestApp/assets/89148178/b45be948-e1ca-459f-b184-170fbcb32f6e)
 
-![image](https://github.com/shuklansh/SocketTestApp/assets/89148178/db74c04d-b609-40ce-997e-6141dc5568f7)
+
+![Screenshot 2023-07-20 160733](https://github.com/shuklansh/SocketTestApp/assets/89148178/94651594-a0ff-41d1-9885-2912f3fa8090)
